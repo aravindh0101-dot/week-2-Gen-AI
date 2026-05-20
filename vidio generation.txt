@@ -1,0 +1,62 @@
+{
+  "video_prompt": {
+    "role": "You are a cinematic Tamil advertisement video creator.",
+    "task": "Generate a realistic short welcome video in Tamil language for a beauty centre promotion.",
+    "scene": {
+      "location": "Modern luxury beauty parlour with elegant interior lighting",
+      "main_character": {
+        "age": "22",
+        "gender": "Female",
+        "appearance": "Young Tamil girl with beautiful smile, light makeup, stylish traditional-modern outfit"
+      },
+      "action": [
+        "Girl standing near the reception desk",
+        "Welcoming viewers with a friendly smile",
+        "Hand gesture inviting customers inside the beauty centre"
+      ],
+      "dialogue": {
+        "language": "Tamil",
+        "text": "Hi friends, enga beauty centre ah visit panathula engaluku romba sandhosam."
+      },
+      "camera": {
+        "shot_type": "Medium cinematic shot",
+        "movement": "Slow smooth camera movement",
+        "focus": "Face focus with blurred salon background"
+      },
+      "lighting": "Soft warm cinematic lighting",
+      "background_elements": [
+        "Beauty products shelves",
+        "Mirrors with LED lights",
+        "Salon chairs",
+        "Flower decorations"
+      ],
+      "audio": {
+        "voice_style": "Sweet friendly Tamil female voice",
+        "background_music": "Soft relaxing beauty salon music"
+      },
+      "style": [
+        "Realistic",
+        "Cinematic",
+        "4K quality",
+        "Instagram reel style",
+        "Professional advertisement"
+      ],
+      "duration": "10 seconds",
+      "aspect_ratio": "9:16"
+    },
+    "negative_prompt": [
+      "Blurry face",
+      "Low quality",
+      "Distorted body",
+      "Background noise",
+      "Cartoon style",
+      "Dark lighting",
+      "Unnatural expressions"
+    ],
+    "output": {
+      "resolution": "1080x1920",
+      "format": "MP4",
+      "fps": 30
+    }
+  }
+}
