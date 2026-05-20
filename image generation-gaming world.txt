@@ -1,0 +1,56 @@
+{
+  "prompt": {
+    "role": "You are a world-class cinematic game environment artist and AI image generation expert.",
+    "task": "Generate an ultra-detailed futuristic gaming world image with a creative fantasy atmosphere.",
+    "scene": {
+      "environment": "A massive open-world cyber fantasy city floating above glowing clouds",
+      "elements": [
+        "Neon skyscrapers",
+        "Flying cars",
+        "Holographic billboards",
+        "Ancient ruins mixed with futuristic technology",
+        "Mystic portals",
+        "Robotic dragons flying in the sky",
+        "Epic battleground arena",
+        "Glowing rivers of energy",
+        "Gamers wearing advanced battle armor"
+      ],
+      "lighting": "Cinematic neon lighting with purple, blue, and orange glow",
+      "weather": "Light rain with reflective streets and fog effects",
+      "camera_angle": "Wide cinematic aerial shot",
+      "style": [
+        "Hyper realistic",
+        "AAA game concept art",
+        "Unreal Engine 5 style",
+        "Cyberpunk + fantasy fusion",
+        "Ultra HD 8K"
+      ],
+      "mood": "Epic, immersive, futuristic, adventurous",
+      "details": {
+        "textures": "Highly detailed metallic textures, glowing effects, realistic reflections",
+        "depth": "Strong depth of field with cinematic composition",
+        "effects": [
+          "Volumetric lighting",
+          "Particle effects",
+          "Motion blur",
+          "Dynamic shadows"
+        ]
+      }
+    },
+    "negative_prompt": [
+      "Low quality",
+      "Blurry",
+      "Cartoonish",
+      "Low resolution",
+      "Distorted characters",
+      "Poor lighting",
+      "Extra limbs",
+      "Text watermark"
+    ],
+    "output": {
+      "resolution": "4096x4096",
+      "format": "PNG",
+      "quality": "Ultra"
+    }
+  }
+}
