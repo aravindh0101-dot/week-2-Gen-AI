@@ -1,0 +1,86 @@
+{
+  "image_prompt": {
+    "role": "You are a world-class cinematic vehicle concept artist and AI image generation expert.",
+    "task": "Generate an ultra-powerful futuristic sports bike that looks aggressive, dangerous, and unstoppable.",
+    "scene": {
+      "main_subject": {
+        "type": "Futuristic superbike",
+        "design": "Sharp aerodynamic body with muscular structure and aggressive styling",
+        "color": [
+          "Matte black",
+          "Dark metallic red",
+          "Neon red glowing accents"
+        ]
+      },
+      "environment": {
+        "location": "Dark cyberpunk city street at night",
+        "elements": [
+          "Wet reflective roads",
+          "Smoke effects",
+          "Neon lights",
+          "Burning sparks",
+          "Rain droplets",
+          "Dark atmosphere"
+        ]
+      },
+      "bike_features": [
+        "Huge racing tires",
+        "Glowing LED headlights",
+        "Fire sparks from exhaust",
+        "Carbon fiber body",
+        "Futuristic engine design",
+        "Sharp dangerous edges",
+        "Heavy metallic texture"
+      ],
+      "camera": {
+        "angle": "Low-angle cinematic shot",
+        "focus": "Front side aggressive view",
+        "effect": "Motion blur and depth of field"
+      },
+      "lighting": {
+        "style": "Dark cinematic lighting",
+        "effects": [
+          "Red neon glow",
+          "Blue reflections",
+          "Volumetric smoke lighting"
+        ]
+      },
+      "mood": [
+        "Dangerous",
+        "Powerful",
+        "Intense",
+        "Fearless",
+        "High-speed energy"
+      ],
+      "style": [
+        "Hyper realistic",
+        "AAA game concept art",
+        "Hollywood cinematic style",
+        "Cyberpunk aesthetic",
+        "Ultra HD 8K"
+      ],
+      "special_effects": [
+        "Fire sparks",
+        "Smoke trails",
+        "Rain reflections",
+        "Dynamic shadows",
+        "Glowing engine"
+      ]
+    },
+    "negative_prompt": [
+      "Low quality",
+      "Blurry image",
+      "Cartoon style",
+      "Distorted bike shape",
+      "Low detail",
+      "Flat lighting",
+      "Bad proportions",
+      "Weak design"
+    ],
+    "output": {
+      "resolution": "4096x4096",
+      "format": "PNG",
+      "quality": "Ultra realistic"
+    }
+  }
+}
