@@ -1,0 +1,69 @@
+{
+  "video_prompt": {
+    "role": "You are a cinematic emotional Tamil animation video creator.",
+    "task": "Generate a realistic emotional monkey video with Tamil dialogue and dramatic expressions.",
+    "scene": {
+      "location": "Old village roadside near a small forest during evening time",
+      "main_character": {
+        "type": "Monkey",
+        "appearance": "Thin cute brown monkey with emotional eyes and slightly messy fur"
+      },
+      "action": [
+        "Monkey sitting alone on a broken wall",
+        "Looking sad and tired",
+        "Talking emotionally to the camera",
+        "Suddenly starts crying with tears in eyes"
+      ],
+      "dialogue": {
+        "language": "Tamil",
+        "text": "Enna vazhkada ithu... sapda oru banana kuda kedaikala... ipdiye pona namma sethuruvom polaye...",
+        "emotion": "Sad, emotional, dramatic"
+      },
+      "camera": {
+        "shot_type": "Close-up cinematic shot",
+        "movement": "Slow zoom-in towards monkey face",
+        "focus": "Detailed emotional facial expressions"
+      },
+      "lighting": "Moody evening cinematic lighting with soft shadows",
+      "background_elements": [
+        "Dry leaves",
+        "Small trees",
+        "Empty roadside",
+        "Cloudy sky"
+      ],
+      "audio": {
+        "voice_style": "Funny yet emotional Tamil male voice",
+        "background_music": "Soft emotional violin music"
+      },
+      "style": [
+        "Realistic animation",
+        "Emotional cinematic style",
+        "Ultra detailed fur",
+        "Pixar-style realism",
+        "4K quality"
+      ],
+      "special_effects": [
+        "Tears rolling from eyes",
+        "Emotional facial expressions",
+        "Light wind effect",
+        "Cinematic depth of field"
+      ],
+      "duration": "15 seconds",
+      "aspect_ratio": "9:16"
+    },
+    "negative_prompt": [
+      "Low quality",
+      "Blurry face",
+      "Distorted monkey body",
+      "Cartoonish low detail",
+      "Poor lip sync",
+      "No emotion",
+      "Dark unclear background"
+    ],
+    "output": {
+      "resolution": "1080x1920",
+      "format": "MP4",
+      "fps": 30
+    }
+  }
+}
